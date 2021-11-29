@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+	"h2v",
+	"sum_cm",
+	"xtask"
+]
